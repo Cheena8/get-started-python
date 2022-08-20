@@ -1,3 +1,6 @@
+#CHANGES DONE FOR MLOPS CLASS 1 
+#DATE 19-08-2022
+
 from cloudant import Cloudant
 from flask import Flask, render_template, request, jsonify
 import atexit
